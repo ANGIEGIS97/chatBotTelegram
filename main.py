@@ -1,7 +1,7 @@
 import telebot
 
 # Conexión con el BOT
-TOKEN = '7834832405:AAG5xbchA0bcNGJmH0lz7AfXauiP7C0Hd8s'
+TOKEN = 'PONGAN_SU_TOKEN_AQUI'
 bot = telebot.TeleBot(TOKEN)
 
 # Diccionario de respuestas automáticas
